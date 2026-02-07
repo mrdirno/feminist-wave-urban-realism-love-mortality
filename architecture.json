@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_urban_realism_love_mortality",
+  "title": "The Entropy of Us",
+  "tagline": "In a city of decay, two keepers of fragile things learn that love is the art of letting go.",
+  "target_words": 70000,
+  "actual_words": 74876,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Caretaking of Fragile Histories",
+    "Entropy as a Love Language",
+    "Urban Loneliness and Connection",
+    "Feminist Reclamation of Mortality"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The City's Exhalation",
+      "words": 3112
+    },
+    {
+      "ch": 2,
+      "title": "The Record in the Stone",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "Climate-Controlled Silence",
+      "words": 2980
+    },
+    {
+      "ch": 4,
+      "title": "The Dignity of Cracks",
+      "words": 3150
+    },
+    {
+      "ch": 5,
+      "title": "Watercolor and Fever",
+      "words": 3300
+    },
+    {
+      "ch": 6,
+      "title": "A Facade Across the Street",
+      "words": 3100
+    },
+    {
+      "ch": 7,
+      "title": "Hospice Rooms and Spreadsheets",
+      "words": 3250
+    },
+    {
+      "ch": 8,
+      "title": "The Wrong Mortar",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "Metabolizing Ambition",
+      "words": 3120
+    },
+    {
+      "ch": 10,
+      "title": "The Paper Umbrella",
+      "words": 3050
+    },
+    {
+      "ch": 11,
+      "title": "Beneath the Bed",
+      "words": 3400
+    },
+    {
+      "ch": 12,
+      "title": "The Last Bureaucracy of Breath",
+      "words": 3150
+    },
+    {
+      "ch": 13,
+      "title": "A Tightness in the Chest",
+      "words": 2980
+    },
+    {
+      "ch": 14,
+      "title": "Geometric Patterns with Veneer",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "The Over-Varnished Gauguin",
+      "words": 3250
+    },
+    {
+      "ch": 16,
+      "title": "Conversations with Weather",
+      "words": 3000
+    },
+    {
+      "ch": 17,
+      "title": "The Stone in Her Stomach",
+      "words": 3350
+    },
+    {
+      "ch": 18,
+      "title": "Sauvignon Blanc of Anxiety",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "The Falling Apart",
+      "words": 3200
+    },
+    {
+      "ch": 20,
+      "title": "A Record of a Hand",
+      "words": 3150
+    },
+    {
+      "ch": 21,
+      "title": "The Fire Escape Philosopher",
+      "words": 3050
+    },
+    {
+      "ch": 22,
+      "title": "Slowing Down the Drift",
+      "words": 3300
+    },
+    {
+      "ch": 23,
+      "title": "The Particulate Matter of Lives",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "A Perfect, Dark Bubble",
+      "words": 2984
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character's profession (like masonry or art conservation) becomes a metaphor for their approach to a failing relationship.",
+      "Create a monologue from the perspective of a city (like Brooklyn) observing the small, mortal lives within it.",
+      "Write a dialogue between two friends where one is a 'death doula' and the other is terrified of aging, set during a mundane task like grocery shopping.",
+      "Describe a character discovering a small, personal artifact (a letter, a drawing) that changes their understanding of a historical figure or event they thought they knew."
+    ],
+    "technical": [
+      "Build a 'Decay Simulator' that visually and textually degrades a piece of text or an image based on variables like time, material, and environmental factors, reflecting the novel's themes.",
+      "Create an interactive map of a fictional or real neighborhood where each building/landmark contains a 'memory' or story tied to themes of preservation, loss, and urban history."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Virginia Woolf (for stream-of-consciousness interiority & feminist critique)",
+      "James Baldwin (for urban realism & searing emotional truth)",
+      "Joan Didion (for cool, precise observation of mortality & social anxiety)",
+      "Haruki Murakami (for weaving the mundane with the metaphysical & themes of quiet loneliness)"
+    ]
+  },
+  "cover_prompt": "Two keepers of fragile things, a woman and a man, gently placing a cracked, antique porcelain bird into a velvet-lined archival box within a decaying but lovingly maintained apartment, surrounded by shelves of pressed flowers in books, repaired clocks, and fading photographs, in a city seen through a rain-streaked window where neon signs blur into the wet pavement below, in the atmospheric style of Petra Collins' melancholic intimacy and the textured, emotive urban realism of Lynette Yiadom-Boakye, book cover framing, centered and intimate composition, a close-up dramatic angle that focuses on their careful hands and the shared, fragile object between them, cinematic chiaroscuro lighting with pools of warm tungsten light from a desk lamp cutting through the cool blue-grey dusk of the room, a color palette of muted teal, burnt umber, dusty rose, and faded gold, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
