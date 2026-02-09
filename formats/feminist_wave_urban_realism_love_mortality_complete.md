@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The city was a lung, and it was exhaling. That damp, warm, garbage-and-jasmine breath of a Brooklyn July night pushed against the back of Lena’s throat as she stood on the fire escape. Below, a cab honked, a long, weary blare that dissolved into the murmur of Court Street. She held a sweating glass of cheap white wine, the condensation making her grip slippery. The wine tasted like regret and pennies. She was thirty-nine. The number sat in her stomach like a stone.
@@ -154,6 +156,8 @@ She slept, and dreamed not of falling stone or fading watercolors, but of mortar
 
 ---
 
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The leak was worse than reported. Lena stood in the basement storage room of the Halloran Museum, a place that always smelled of cold concrete and the ghostly sweetness of decaying paper. A steady *drip-drip-drip* fell from a sagging ceiling tile into a plastic bin that was already half-full. The water had missed the botanical drawings, but it had perilously close neighbors: a collection of letters from a Jazz Age socialite, and a box of early 20th-century studio glass negatives.
@@ -295,6 +299,8 @@ She typed a single word.
 And it was.
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
